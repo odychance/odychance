@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello There 👋
+Welcome to my Overview!😎
+Look at my portfolio!🚀
+https://oddy-portfolio.vercel.app/
 
 <!--
 **odychance/odychance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
